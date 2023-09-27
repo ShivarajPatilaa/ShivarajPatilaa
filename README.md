@@ -1,7 +1,7 @@
 [![MasterHead](https://tenor.com/view/data-analysis-graph-chart-gif-23151718)]
 <h1 align="center">Hi 👋, I'm Shivaraj Patil</h1>
 <h3 align="center">Data is Power</h3>
-<img align= "right" alt = "Coding" width="400" src="[https://lottiefiles.com/animations/meditation-MzzLitAUpC](https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif)">
+<img align= "right" alt = "Coding" width="400" src="[https://lottiefiles.com/animations/meditation-MzzLitAUpC]>
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=shivarajpatilaa&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajpatilaa](https://chools.in/wp-content/uploads/data-science-2-1.gif)" /> </p>
 
