@@ -3,7 +3,7 @@
 <h3 align="center">Data is Power</h3>
 <img align= "right" alt = "Coding" width="400" src="[https://lottiefiles.com/animations/meditation-MzzLitAUpC](https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivarajpatilaa&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajpatilaa" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=shivarajpatilaa&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajpatilaa](https://chools.in/wp-content/uploads/data-science-2-1.gif)" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
