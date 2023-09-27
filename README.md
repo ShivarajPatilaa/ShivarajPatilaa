@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuploads-ssl.webflow.com%2F5c19100c2b50073e6ee69da1%2F60d34f3b422c048fb72cb925_Analyze.gif&tbnid=aYFgCTkNANExVM&vet=12ahUKEwiF666Ow8eBAxX_vWMGHW_YB3kQMygKegQIARB4..i&imgrefurl=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&docid=xLW_H5EqWMOzQM&w=500&h=500&q=data%20science%20gif&hl=en-GB&ved=2ahUKEwiF666Ow8eBAxX_vWMGHW_YB3kQMygKegQIARB4)]
+[![MasterHead](https://tenor.com/view/data-analysis-graph-chart-gif-23151718)]
 <h1 align="center">Hi 👋, I'm Shivaraj Patil</h1>
 <h3 align="center">Data is Power</h3>
 <img align= "right" alt = "Coding" width="400" src="[https://lottiefiles.com/animations/meditation-MzzLitAUpC](https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif)">
