@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=shivarajpatilaa&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajpatilaa](https://chools.in/wp-content/uploads/data-science-2-1.gif)" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m working as **Data Analyst**
 
 - 💬 Ask me about **Data Analysis, Machine learning and Agriculture**
 
