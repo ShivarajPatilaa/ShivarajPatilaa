@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Analysis, Machine learning and Agriculture**
 
-- 📫 How to reach me **patil9731shiva@gmail.com**
+- 📫 How to reach me **shivarajpatil.personal@gmail.com**
 
 - ⚡ Fun fact ***AI* WILL REPLACE (~ SNAMUH)**
 
