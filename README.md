@@ -55,9 +55,9 @@ Random Forest model predicting suitable crops using soil, climate & NDVI dataset
 ---
 
 ## 📬 Reach Me
-• Gmail : [shivarajpatil.personal@gmail.com]
-• LinkedIn: [linkedin.com/in/shivaraj-patil-b80745175]
-• GitHub: [github.com/ShivarajPatilaa]
+- • Gmail : [shivarajpatil.personal@gmail.com]
+- • LinkedIn: [linkedin.com/in/shivaraj-patil-b80745175]
+- • GitHub: [github.com/ShivarajPatilaa]
 
 ✨ *Open to full-time roles, freelance projects, and collaborations.*
 ```
