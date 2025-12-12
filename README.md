@@ -1,11 +1,10 @@
 
 # 👋 Hi, I'm **Shivaraj Patil**
-### 🔎 Data Analyst | Sustainability • Agriculture • IoT | Python • SQL • Power BI
+### 🔎 Data Analyst | Python • SQL • R • Power BI 
 
-📍 Bangalore, India · ✉️  Gmail[shivarajpatil.personal@gmail.com] · 🔗 Linkedin [https://www.linkedin.com/in/shivaraj-patil-b80745175] · 🔗 Github [https://github.com/ShivarajPatilaa]
+📍 Bangalore, India · 
 
 ---
-https://github.com/ShivarajPatilaa/ShivarajPatilaa/blob/main/shivaraj.jpg
 
 ## 🌱 About Me
 I’m a data analyst with 3+ years of experience converting large, messy datasets into clear business insights. My work spans **GHG & sustainability analytics, agriculture data systems, IoT sensor pipelines, and dashboard automation**.
@@ -56,9 +55,9 @@ Random Forest model predicting suitable crops using soil, climate & NDVI dataset
 ---
 
 ## 📬 Reach Me
-- Email: shivarajpatil.personal@gmail.com
-- LinkedIn: linkedin.com/in/shivaraj-patil-b80745175
-- GitHub: github.com/ShivarajPatilaa
+- [Gmail](shivarajpatil.personal@gmail.com)
+- [LinkedIn](linkedin.com/in/shivaraj-patil-b80745175)
+- [GitHub](github.com/ShivarajPatilaa)
 
 ✨ *Open to full-time roles, freelance projects, and collaborations.*
 ```
