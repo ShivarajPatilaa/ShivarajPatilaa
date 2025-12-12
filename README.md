@@ -14,7 +14,7 @@ I love building reliable data workflows, optimizing data quality, and designing 
 ---
 
 ## 🧰 Technical Toolbox
-- **Languages:** Python, SQL, Shell
+- **Languages:** Python, SQL, R
 - **Analytics & Data:** Pandas, NumPy, scikit-learn, Jupyter, Power BI, Excel
 - **Geospatial:** QGIS, GeoPandas, Raster analysis
 - **Cloud & Automation:** AWS (SageMaker, Athena), Git, Docker, Flask
@@ -41,15 +41,16 @@ Random Forest model predicting suitable crops using soil, climate & NDVI dataset
 - **Data Analyst — Terrascope**
   - GHG analytics, carbon modelling, emission factor workflows
 - **Data Analyst — Cultyvate**
-  - IoT analytics, geospatial data, Python ETL automation
-- **Assistant Professor — UAS Bengaluru**
+  - IoT Data analytics, geospatial data, Python ETL automation
+- **Assistant Professor — Agriculture College Markapur**
   - Taught agriculture, experimental design, labs
 
 ---
 
 ## 🎓 Education
-- M.Sc. Agriculture, UAS Bengaluru
 - Data Science Professional Certificate — Odin School
+- M.Sc. Agriculture, UAS Bengaluru
+
 
 ---
 
