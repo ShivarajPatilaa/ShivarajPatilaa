@@ -1,28 +1,63 @@
-[![MasterHead](https://tenor.com/view/data-analysis-graph-chart-gif-23151718)]
-<h1 align="center">Hi 👋, I'm Shivaraj Patil</h1>
-<h3 align="center">Data is Power</h3>
-<img align= "right" alt = "Coding" width="400" src="[https://lottiefiles.com/animations/meditation-MzzLitAUpC]>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=shivarajpatilaa&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajpatilaa](https://chools.in/wp-content/uploads/data-science-2-1.gif)" /> </p>
+# 👋 Hi, I'm **Shivaraj Patil**
+### 🔎 Data Analyst | Sustainability • Agriculture • IoT | Python • SQL • Power BI
 
-- 🌱 I’m working as **Data Analyst**
+📍 Bangalore, India · ✉️ shivarajpatil.personal@gmail.com · 🔗 LinkedIn · 🔗 GitHub
 
-- 💬 Ask me about **Data Analysis, Machine learning and Agriculture**
+---
 
-- 📫 How to reach me **shivarajpatil.personal@gmail.com**
+## 🌱 About Me
+I’m a data analyst with 3+ years of experience converting large, messy datasets into clear business insights. My work spans **GHG & sustainability analytics, agriculture data systems, IoT sensor pipelines, and dashboard automation**.
 
-- ⚡ Fun fact ***AI* WILL REPLACE (~ SNAMUH)**
+I love building reliable data workflows, optimizing data quality, and designing visual dashboards that help teams move faster.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivaraj-patil-b80745175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivaraj-patil-b80745175" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🧰 Technical Toolbox
+- **Languages:** Python, SQL, Shell
+- **Analytics & Data:** Pandas, NumPy, scikit-learn, Jupyter, Power BI, Excel
+- **Geospatial:** QGIS, GeoPandas, Raster analysis
+- **Cloud & Automation:** AWS (SageMaker, Athena), Git, Docker, Flask
+- **Domains:** Sustainability reporting (Scope 1–3), Remote Sensing, IoT
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivarajpatilaa&show_icons=true&locale=en&layout=compact" alt="shivarajpatilaa" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivarajpatilaa&show_icons=true&locale=en" alt="shivarajpatilaa" /></p>
+## 🏆 Featured Projects
+### 1️⃣ Carbon & GHG Emission Analytics
+Built end‑to‑end workflows for enterprise clients: data validation, factor allocation, forecasting, and dashboards.
+➡️ *Python · Power BI · AWS SageMaker*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivarajpatilaa&" alt="shivarajpatilaa" /></p>
+### 2️⃣ IoT Device Manager + Sensor Analytics
+Created a Flask-based application for operations to manage 2000+ field devices and automated water-level correction logic.
+➡️ *Flask · Python · ETL pipelines · Time-series processing*
+
+### 3️⃣ Crop Suitability ML Model
+Random Forest model predicting suitable crops using soil, climate & NDVI datasets.
+➡️ *scikit-learn · GeoPandas · Agriculture datasets*
+
+---
+
+## 💼 Experience Snapshot
+- **Data Analyst — Terrascope**
+  - GHG analytics, carbon modelling, emission factor workflows
+- **Data Analyst — Cultyvate**
+  - IoT analytics, geospatial data, Python ETL automation
+- **Assistant Professor — UAS Bengaluru**
+  - Taught agriculture, experimental design, labs
+
+---
+
+## 🎓 Education
+- M.Sc. Agriculture, UAS Bengaluru
+- Data Science Professional Certificate — Odin School
+
+---
+
+## 📬 Reach Me
+- Email: shivarajpatil.personal@gmail.com
+- LinkedIn: linkedin.com/in/shivaraj-patil-b80745175
+- GitHub: github.com/ShivarajPatilaa
+
+✨ *Open to full-time roles, freelance projects, and collaborations.*
+```
+
