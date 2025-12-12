@@ -2,7 +2,7 @@
 # 👋 Hi, I'm **Shivaraj Patil**
 ### 🔎 Data Analyst | Sustainability • Agriculture • IoT | Python • SQL • Power BI
 
-📍 Bangalore, India · ✉️ shivarajpatil.personal@gmail.com · 🔗 https://www.linkedin.com/in/shivaraj-patil-b80745175 · 🔗 https://github.com/ShivarajPatilaa
+📍 Bangalore, India · ✉️  Gmail[shivarajpatil.personal@gmail.com] · 🔗 Linkedin [https://www.linkedin.com/in/shivaraj-patil-b80745175] · 🔗 Github [https://github.com/ShivarajPatilaa]
 
 ---
 https://github.com/ShivarajPatilaa/ShivarajPatilaa/blob/main/shivaraj.jpg
