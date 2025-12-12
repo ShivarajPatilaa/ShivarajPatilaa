@@ -5,6 +5,7 @@
 📍 Bangalore, India · ✉️ shivarajpatil.personal@gmail.com · 🔗 https://www.linkedin.com/in/shivaraj-patil-b80745175 · 🔗 https://github.com/ShivarajPatilaa
 
 ---
+https://github.com/ShivarajPatilaa/ShivarajPatilaa/blob/main/shivaraj.jpg
 
 ## 🌱 About Me
 I’m a data analyst with 3+ years of experience converting large, messy datasets into clear business insights. My work spans **GHG & sustainability analytics, agriculture data systems, IoT sensor pipelines, and dashboard automation**.
